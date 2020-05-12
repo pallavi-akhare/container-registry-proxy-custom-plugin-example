@@ -4,11 +4,14 @@
   "main": "index.js",
   "author": "Adriaan Knapen <hi@aknapen.nl>",
   "license": "MIT",
-  "devDependencies": {
-    "@types/node": "^13.13.5"
+  "scripts": {
+    "build": "tsc"
   },
   "dependencies": {
     "container-registry-proxy": "4.1.0",
     "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/node": "^13.13.5"
   }
 }
