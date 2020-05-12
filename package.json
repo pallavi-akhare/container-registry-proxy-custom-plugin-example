@@ -1,0 +1,14 @@
+{
+  "name": "crp-plugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Adriaan Knapen <hi@aknapen.nl>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^13.13.5"
+  },
+  "dependencies": {
+    "container-registry-proxy": "4.1.0",
+    "typescript": "^3.8.3"
+  }
+}
